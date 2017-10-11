@@ -3,7 +3,7 @@
 
 //Список переменных
 const TelegramBot = require('node-telegram-bot-api');
-const token = '369678493:AAGO2f6hiiK9EB0yifb_WaH7kpS04lTeH2A';
+const token = '';
 const cron = require('cron').CronJob;
 const request = require('request');
 const cheerio = require("cheerio");
